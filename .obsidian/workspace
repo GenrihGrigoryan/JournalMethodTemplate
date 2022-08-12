@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6a31e183e1d458cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "91127f3242f1c163",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Журнал/2022-08-12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "187286c50aa3d5ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce515bfb1bfa172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "219785d20aae7e98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab4f83cedbb5b322",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f653cad6957ea7d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3e2d51eae886dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c831f6699dc338a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb238168dda00bc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Журнал/2022-08-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1108ae87ffabf1b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Журнал/2022-08-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebb58e728941805b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0334821aaec09090",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Журнал/2022-08-12.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91127f3242f1c163",
+  "lastOpenFiles": [
+    "Пример заметки.md",
+    "Журнал/2022-08.md",
+    "Журнал/2022-08-12.md",
+    "Журнал/2022.md",
+    "Папки/Проекты/Проект 1.md",
+    "Папки/Проекты/Задача 1.md",
+    "Папки/Шаблоны/month.md",
+    "Папки/Шаблоны/year.md",
+    "Журнал/Основа.md",
+    "Папки/Шаблоны/day.md"
+  ]
+}
